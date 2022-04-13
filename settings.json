@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "Alam 🌱 ",
-     "nomerlu": "6285888083107",
-     "namabot": "東京タップ Botz",
-     "nomerbot": "6285888083107",
+     "namalu" : "Nbilla",
+     "nomerlu": "6289515233398",
+     "namabot": "東NBILLABOTZ",
+     "nomerbot": "6289515233398",
      "gender" : "Female",
-     "copyright" : "NurAlam",
-     "namaDocument": "東京タップ Botz",
+     "copyright" : "Nblla",
+     "namaDocument": "東NBILLABOTZ",
      "joinGcExtream": true,
 
      "publik": true,
@@ -14,10 +14,10 @@
      "Loading": false,
      "antitroli" : false,
      
-     "autovn" : false,
-     "autosticker" : false,
-     "autorespon" : false,
-     "autotyping" : false,
+     "autovn" : true,
+     "autosticker" : true,
+     "autorespon" : true,
+     "autotyping" : true,
      "autoread" : true,
      "autoblockcmd" : false, 
      "autobio" : true,
@@ -45,21 +45,21 @@
      },
      
      "setPayment": {
-     "Shopee" : "085156137901",
-     "Gopay" : "085156137901",
-     "Dana" : "085156137901",
-     "Ovo" : "085156137901"
+     "Shopee" : "089515233398",
+     "Gopay" : "089515233398",
+     "Dana" : "089515233398",
+     "Ovo" : "089515233398"
      },
      
      "setPrefix": {
-     "prefix": "!",
+     "prefix": ".",
      "multi": true,
      "onepref" : false,
      "nopref" : false
      },
                                                                                                                                                                                                                                    
      "setWelcome": {
-     "autoWelcome": false,
+     "autoWelcome": true,
      "welcomeType": "type3",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
